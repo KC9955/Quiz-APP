@@ -1,0 +1,2 @@
+# Quiz-APP
+The project is a Quiz app, It will be built using HTML, CSS, BOOTSTRAP, and ANGULAR, which are very efficient to design an entity like this, the topic I chose to build this website is Quiz on web development, just as we do some quizzes online, it works as same, it is having a number of questions with some modern features and very attractive interface, and all the technologies it requires are having modern-day views and very Knowledgeable, as the front-end developer I tried to do very usefully and presenting the best version of this work.
