@@ -1,0 +1,56 @@
+img{
+    margin-top: 10%;
+    width: 80%;
+    height: auto;
+}
+#container1{
+    margin-bottom: 5%;
+}
+span{
+    font-family: 'Habibi';
+font-style: normal;
+font-weight: 400;
+font-size: 60px;
+line-height: 100px;
+text-decoration: 2px underline #1DA1F2;
+text-underline-offset: 0.4rem;
+}
+
+.lits {
+    font-family: 'Playfair Display';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 60px;
+    list-style: none;
+    margin-left: 20%;  
+}
+#btn1{
+    direction: rtl;
+}
+#btn{
+    
+    font-family: 'Habibi';
+    font-size: 20px;
+    color: white;
+    margin-top: 20px;
+    background-color: #2ED980;
+    height: 40px;
+    border-radius: 20px;
+    cursor: pointer;
+    border: none;
+    font-weight: 900;
+    box-shadow: 6px 6px 6px #cbced1, -6px -6px 6px white;
+    transition: 0.5s;
+    display: block;
+    width: 20%;
+    padding: 0;
+    border: none;
+    outline: none;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+  
+#btn:hover{
+    box-shadow: none;
+  }

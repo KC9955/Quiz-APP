@@ -1,0 +1,79 @@
+img{
+    margin-top: 10%;
+    width: 80%;
+    height: auto;
+}
+#container1{
+    margin-bottom: 5%;
+}
+ 
+button, input {
+    font-family:'Mate SC';
+    font-size: 48px;
+    line-height: 59px;
+    letter-spacing: 0em;
+   
+
+  }
+  label {
+    display: block;
+    margin-bottom: 16px*1.5;
+    width: 100%;
+  }
+  form {
+    padding: 56px;
+    width: 16px*20;
+    margin: 5% auto;
+  }
+ 
+  
+  button {
+       
+    font-family: 'Habibi';
+    font-size: 30px;
+    color: white;
+    background-color: #2ED980;
+    height: auto;
+    border-radius: 20px;
+    cursor: pointer;
+    border: none;
+    box-shadow: 6px 6px 6px #cbced1, -6px -6px 6px white;
+    transition: 0.5s;
+    display: block;
+    width: 200px;
+    padding: 0;
+    border: none;
+    outline: none;
+    box-sizing: border-box;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+  
+button:hover{
+    box-shadow: none;
+  }
+
+  #btn1{
+    direction: rtl;
+  }
+   
+    button:active {
+      box-shadow: inset 1px 1px 2px #BABECC, inset -1px -1px 2px #FFF;
+    }
+    .wrapper .form-field input {
+      width: 100%;
+      display: block;
+      border: none;
+      outline: none;
+      background: none;
+      font-size: 40px;
+      color: rgb(0, 0, 0);
+      padding: 10px 15px 10px 10px;
+      /* border: 1px solid red; */
+  }
+  
+  .wrapper .form-field {
+      padding-left: 10px;
+      margin-bottom: 20px;
+      border-radius: 20px;
+      box-shadow: inset 8px 8px 8px #0000001e, inset -8px -8px 8px rgba(59, 59, 59, 0.363)
+  }
